@@ -34,6 +34,9 @@ Feel free to check out my [portfolio](https://andreasletta.com) 👈🏻
     <a href="https://wordpress.org"><img alt="Wordpress shield" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
     <a href="https://heroku.com"><img alt="Heroku shield" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
     <a href="https://www.postman.com"><img alt="Postman shield" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
+  <a href="{https://getbootstrap.com"><img alt="Bootstrap shield" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"} /></a>
+   <a href="{https://sass-lang.com"><img alt="Sass shield" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"} /></a>
+  <a href="https://strapi.io"><img alt="Strapi shield" src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" /></a>
 </p> 
 
 
