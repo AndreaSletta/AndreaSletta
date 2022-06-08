@@ -1,6 +1,7 @@
 # Hello 👋   I'm Andrea!
 <br>
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/andrea-sletta-larsen-381b37121/"><img alt="LinkedIn sheild" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://no.pinterest.com/andreasletta"><img alt="Pinterst shield" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
@@ -40,3 +41,7 @@ I've grown very fond of packaging, web design and creating React apps, and I'm a
     <a href="https://www.adobe.com/no/products/photoshop"><img alt="Photoshop shield" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /></a>
    <a href="https://www.adobe.com/no/products/xd.html"><img alt="AdobeXD shield" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /></a>
 </p> 
+
+---
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="300">
+
