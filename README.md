@@ -11,6 +11,15 @@ I studied graphic design 🎨 and frontend developent 💻 at Noroff, school of 
 
 I've grown very fond of packaging, web design and creating React apps, and I'm always up for a new challenge.✨
 
+---
+
+<div align="left">
+  <div style="display: flex;"> <img src="https://github-readme-stats.vercel.app/api?username=AndreaSletta&theme=buefy&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaSletta&layout=compact&show_icons=true" style="vertical-align: top;" />
+   
+  </div>
+</div>
+
 
 ---
 
@@ -24,7 +33,6 @@ I've grown very fond of packaging, web design and creating React apps, and I'm a
     <a href="https://www.postman.com"><img alt="Postman shield" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
 </p> 
 
----
 
 <p align="left">
  <a href="https://www.adobe.com/no/products/illustrator"><img alt="Illustrator shield" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /></a>
@@ -32,22 +40,3 @@ I've grown very fond of packaging, web design and creating React apps, and I'm a
     <a href="https://www.adobe.com/no/products/photoshop"><img alt="Photoshop shield" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /></a>
    <a href="https://www.adobe.com/no/products/xd.html"><img alt="AdobeXD shield" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /></a>
 </p> 
-
----
-
-<div align="center">
-  <div style="display: flex;">
-    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaSletta)](https://github.com/AndreaSletta/github-readme-stats) />
-              <img src=" {![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaSletta&theme=buefy&show_icons=true) "} />
-     </div>
-</div>
-
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaSletta)](https://github.com/AndreaSletta/github-readme-stats)   | 
-  ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaSletta&theme=buefy&show_icons=true) 
-  |
-
-
- 
-
-
-
