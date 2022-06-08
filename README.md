@@ -18,8 +18,8 @@ Feel free to check out my [portfolio](https://andreasletta.com) 👈🏻
 
 <div align="left">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaSletta&layout=compact&show_icons=true" style="vertical-align: top;" height="200"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=AndreaSletta&theme=buefy&show_icons=true" height="200"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaSletta&layout=compact&show_icons=true" style="vertical-align: top;"   />
+    <img src="https://github-readme-stats.vercel.app/api?username=AndreaSletta&theme=buefy&show_icons=true"  />
   </div>
 </div>
 
