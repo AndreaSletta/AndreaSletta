@@ -12,6 +12,8 @@ I studied graphic design 🎨 and frontend developent 💻 at Noroff, school of 
 
 I've grown very fond of packaging, web design and creating React apps, and I'm always up for a new challenge.✨
 
+Feel free to check out my [portfolio](https://andreasletta.com) 👈🏻
+
 ---
 
 <div align="left">
