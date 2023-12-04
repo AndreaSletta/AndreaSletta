@@ -16,12 +16,17 @@ Feel free to check out my [portfolio](https://andreasletta.com) 👈🏻
 
 ---
 
-<div align="left">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaSletta&layout=compact&show_icons=true" style="vertical-align: top;" height="200"   />
-    <img src="https://github-readme-stats.vercel.app/api?username=AndreaSletta&theme=buefy&show_icons=true" height="200"  />
-  </div>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
 ---
@@ -46,7 +51,4 @@ Feel free to check out my [portfolio](https://andreasletta.com) 👈🏻
     <a href="https://www.adobe.com/no/products/photoshop"><img alt="Photoshop shield" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /></a>
    <a href="https://www.adobe.com/no/products/xd.html"><img alt="AdobeXD shield" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /></a>
 </p> 
-
----
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="300">
 
