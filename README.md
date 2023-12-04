@@ -14,20 +14,6 @@ I've grown very fond of packaging, web design and creating React apps, and I'm a
 
 Feel free to check out my [portfolio](https://andreasletta.com) 👈🏻
 
----
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AndreaSletta&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AndreaSletta&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreaSletta&show_icons=true" />
-</picture>
-
 
 ---
 
